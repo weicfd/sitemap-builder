@@ -5,7 +5,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "fs": "0.0.1-security",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "xml2js-es6-promise": "^1.1.1"
   },
   "devDependencies": {},
